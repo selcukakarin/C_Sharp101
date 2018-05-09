@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Reflection3\bin\Debug\Reflection3.exe.config
+C:\Users\microman\Documents\GitHub\Reflection3\bin\Debug\Reflection3.exe
+C:\Users\microman\Documents\GitHub\Reflection3\bin\Debug\Reflection3.pdb
+C:\Users\microman\Documents\GitHub\Reflection3\obj\Debug\Reflection3.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Reflection3\obj\Debug\Reflection3.exe
+C:\Users\microman\Documents\GitHub\Reflection3\obj\Debug\Reflection3.pdb

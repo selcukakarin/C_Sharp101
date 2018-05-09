@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Generic delegate\bin\Debug\Generic delegate.exe.config
+C:\Users\microman\Documents\GitHub\Generic delegate\bin\Debug\Generic delegate.exe
+C:\Users\microman\Documents\GitHub\Generic delegate\bin\Debug\Generic delegate.pdb
+C:\Users\microman\Documents\GitHub\Generic delegate\obj\Debug\Generic delegate.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Generic delegate\obj\Debug\Generic delegate.exe
+C:\Users\microman\Documents\GitHub\Generic delegate\obj\Debug\Generic delegate.pdb

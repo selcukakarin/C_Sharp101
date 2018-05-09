@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Reflection4\bin\Debug\Reflection4.exe.config
+C:\Users\microman\Documents\GitHub\Reflection4\bin\Debug\Reflection4.exe
+C:\Users\microman\Documents\GitHub\Reflection4\bin\Debug\Reflection4.pdb
+C:\Users\microman\Documents\GitHub\Reflection4\obj\Debug\Reflection4.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Reflection4\obj\Debug\Reflection4.exe
+C:\Users\microman\Documents\GitHub\Reflection4\obj\Debug\Reflection4.pdb

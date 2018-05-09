@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\bin\Debug\Partial Class - Parçalı Sınıflar.exe.config
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\bin\Debug\Partial Class - Parçalı Sınıflar.exe
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\bin\Debug\Partial Class - Parçalı Sınıflar.pdb
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\obj\Debug\Partial Class - Parçalı Sınıflar.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\obj\Debug\Partial Class - Parçalı Sınıflar.exe
+C:\Users\microman\Documents\GitHub\Partial Class - Parçalı Sınıflar\obj\Debug\Partial Class - Parçalı Sınıflar.pdb

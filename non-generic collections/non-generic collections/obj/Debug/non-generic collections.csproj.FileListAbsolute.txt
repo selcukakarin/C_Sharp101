@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\bin\Debug\non-generic collections.exe.config
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\bin\Debug\non-generic collections.exe
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\bin\Debug\non-generic collections.pdb
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\obj\Debug\non-generic collections.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\obj\Debug\non-generic collections.exe
+C:\Users\microman\Source\Repos\non-generic collections\non-generic collections\obj\Debug\non-generic collections.pdb

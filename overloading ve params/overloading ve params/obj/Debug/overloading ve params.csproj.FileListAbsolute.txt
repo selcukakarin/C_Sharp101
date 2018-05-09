@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\bin\Debug\overloading ve params.exe.config
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\bin\Debug\overloading ve params.exe
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\bin\Debug\overloading ve params.pdb
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\obj\Debug\overloading ve params.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\obj\Debug\overloading ve params.exe
+C:\Users\microman\Source\Repos\overloading ve params\overloading ve params\obj\Debug\overloading ve params.pdb

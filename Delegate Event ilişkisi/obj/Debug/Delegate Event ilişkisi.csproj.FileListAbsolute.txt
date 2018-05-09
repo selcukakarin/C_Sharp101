@@ -1,0 +1,9 @@
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\bin\Debug\Delegate Event ilişkisi.exe.config
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\bin\Debug\Delegate Event ilişkisi.exe
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\bin\Debug\Delegate Event ilişkisi.pdb
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate Event ilişkisi.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate_Event_ilişkisi.Form1.resources
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate_Event_ilişkisi.Properties.Resources.resources
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate Event ilişkisi.csproj.GenerateResource.Cache
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate Event ilişkisi.exe
+C:\Users\microman\Documents\GitHub\Delegate Event ilişkisi\obj\Debug\Delegate Event ilişkisi.pdb

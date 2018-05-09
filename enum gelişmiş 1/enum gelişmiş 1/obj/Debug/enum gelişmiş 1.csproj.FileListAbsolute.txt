@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\bin\Debug\enum gelişmiş 1.exe.config
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\bin\Debug\enum gelişmiş 1.exe
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\bin\Debug\enum gelişmiş 1.pdb
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\obj\Debug\enum gelişmiş 1.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\obj\Debug\enum gelişmiş 1.exe
+C:\Users\microman\Source\Repos\enum gelişmiş 1\enum gelişmiş 1\obj\Debug\enum gelişmiş 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\bin\Debug\Dynamic Programming - Dinamik Programlama.exe.config
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\bin\Debug\Dynamic Programming - Dinamik Programlama.exe
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\bin\Debug\Dynamic Programming - Dinamik Programlama.pdb
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\obj\Debug\Dynamic Programming - Dinamik Programlama.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\obj\Debug\Dynamic Programming - Dinamik Programlama.exe
+C:\Users\microman\Documents\GitHub\Dynamic Programming - Dinamik Programlama\obj\Debug\Dynamic Programming - Dinamik Programlama.pdb

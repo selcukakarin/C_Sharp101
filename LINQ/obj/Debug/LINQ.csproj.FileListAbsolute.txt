@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\microman\Documents\GitHub\LINQ\bin\Debug\LINQ.exe
+C:\Users\microman\Documents\GitHub\LINQ\bin\Debug\LINQ.pdb
+C:\Users\microman\Documents\GitHub\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\LINQ\obj\Debug\LINQ.exe
+C:\Users\microman\Documents\GitHub\LINQ\obj\Debug\LINQ.pdb

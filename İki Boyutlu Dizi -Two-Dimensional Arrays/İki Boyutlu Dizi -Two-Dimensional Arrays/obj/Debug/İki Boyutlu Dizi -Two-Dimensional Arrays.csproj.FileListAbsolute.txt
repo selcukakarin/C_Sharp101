@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\bin\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.exe.config
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\bin\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.exe
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\bin\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.pdb
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\obj\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\obj\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.exe
+C:\Users\microman\Source\Repos\İki Boyutlu Dizi -Two-Dimensional Arrays\İki Boyutlu Dizi -Two-Dimensional Arrays\obj\Debug\İki Boyutlu Dizi -Two-Dimensional Arrays.pdb

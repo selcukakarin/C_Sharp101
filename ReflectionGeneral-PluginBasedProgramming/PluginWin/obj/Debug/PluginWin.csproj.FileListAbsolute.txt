@@ -1,0 +1,13 @@
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\bin\Debug\PluginWin.exe.config
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\bin\Debug\PluginWin.exe
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\bin\Debug\PluginWin.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.csprojAssemblyReference.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.Form1.resources
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.Properties.Resources.resources
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.csproj.GenerateResource.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.exe
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\bin\Debug\SDK.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\bin\Debug\SDK.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginWin\obj\Debug\PluginWin.csproj.CopyComplete

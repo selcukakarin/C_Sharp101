@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Action ve Func\bin\Debug\Action ve Func.exe.config
+C:\Users\microman\Documents\GitHub\Action ve Func\bin\Debug\Action ve Func.exe
+C:\Users\microman\Documents\GitHub\Action ve Func\bin\Debug\Action ve Func.pdb
+C:\Users\microman\Documents\GitHub\Action ve Func\obj\Debug\Action ve Func.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Action ve Func\obj\Debug\Action ve Func.exe
+C:\Users\microman\Documents\GitHub\Action ve Func\obj\Debug\Action ve Func.pdb

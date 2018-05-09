@@ -1,0 +1,7 @@
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\bin\Debug\ref ve out.exe.config
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\bin\Debug\ref ve out.exe
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\bin\Debug\ref ve out.pdb
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\obj\Debug\ref ve out.csprojAssemblyReference.cache
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\obj\Debug\ref ve out.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\obj\Debug\ref ve out.exe
+C:\Users\microman\Source\Repos\ref ve out\ref ve out\obj\Debug\ref ve out.pdb

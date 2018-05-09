@@ -1,0 +1,8 @@
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\bin\Debug\Plugin-Second.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\bin\Debug\Plugin-Second.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\bin\Debug\SDK.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\bin\Debug\SDK.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\obj\Debug\Plugin-Second.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\obj\Debug\Plugin-Second.csproj.CopyComplete
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\obj\Debug\Plugin-Second.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\Plugin-Second\obj\Debug\Plugin-Second.pdb

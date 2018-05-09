@@ -1,0 +1,8 @@
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\bin\Debug\PluginFirst.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\bin\Debug\PluginFirst.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\bin\Debug\SDK.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\bin\Debug\SDK.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\obj\Debug\PluginFirst.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\obj\Debug\PluginFirst.csproj.CopyComplete
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\obj\Debug\PluginFirst.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\PluginFirst\obj\Debug\PluginFirst.pdb

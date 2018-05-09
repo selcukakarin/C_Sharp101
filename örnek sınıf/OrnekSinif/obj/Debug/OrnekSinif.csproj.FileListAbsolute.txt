@@ -1,0 +1,12 @@
+C:\Users\microman\Documents\GitHub\OrnekSinif\bin\Debug\OrnekSinif.exe.config
+C:\Users\microman\Documents\GitHub\OrnekSinif\bin\Debug\OrnekSinif.exe
+C:\Users\microman\Documents\GitHub\OrnekSinif\bin\Debug\OrnekSinif.pdb
+C:\Users\microman\Documents\GitHub\OrnekSinif\obj\Debug\OrnekSinif.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\OrnekSinif\obj\Debug\OrnekSinif.exe
+C:\Users\microman\Documents\GitHub\OrnekSinif\obj\Debug\OrnekSinif.pdb
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\bin\Debug\OrnekSinif.exe.config
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\obj\Debug\OrnekSinif.exe
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\obj\Debug\OrnekSinif.pdb
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\bin\Debug\OrnekSinif.exe
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\bin\Debug\OrnekSinif.pdb
+C:\Users\microman\Desktop\c#\örnek sınıf\OrnekSinif\obj\Debug\OrnekSinif.csprojResolveAssemblyReference.cache

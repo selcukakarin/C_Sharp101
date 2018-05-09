@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\bin\Debug\İç İçe Sınıflar - Nested Classes.exe.config
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\bin\Debug\İç İçe Sınıflar - Nested Classes.exe
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\bin\Debug\İç İçe Sınıflar - Nested Classes.pdb
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\obj\Debug\İç İçe Sınıflar - Nested Classes.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\obj\Debug\İç İçe Sınıflar - Nested Classes.exe
+C:\Users\microman\Source\Repos\İç İçe Sınıflar - Nested Classes\İç İçe Sınıflar - Nested Classes\obj\Debug\İç İçe Sınıflar - Nested Classes.pdb

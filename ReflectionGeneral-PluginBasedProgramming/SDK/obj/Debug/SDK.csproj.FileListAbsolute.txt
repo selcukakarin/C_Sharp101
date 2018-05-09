@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\bin\Debug\SDK.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\bin\Debug\SDK.pdb
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\obj\Debug\SDK.csprojAssemblyReference.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\obj\Debug\SDK.dll
+C:\Users\microman\Source\Repos\ReflectionGeneral-PluginBasedProgramming\SDK\obj\Debug\SDK.pdb

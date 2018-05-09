@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Virtual and Override\bin\Debug\Virtual and Override.exe.config
+C:\Users\microman\Documents\GitHub\Virtual and Override\bin\Debug\Virtual and Override.exe
+C:\Users\microman\Documents\GitHub\Virtual and Override\bin\Debug\Virtual and Override.pdb
+C:\Users\microman\Documents\GitHub\Virtual and Override\obj\Debug\Virtual and Override.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Virtual and Override\obj\Debug\Virtual and Override.exe
+C:\Users\microman\Documents\GitHub\Virtual and Override\obj\Debug\Virtual and Override.pdb

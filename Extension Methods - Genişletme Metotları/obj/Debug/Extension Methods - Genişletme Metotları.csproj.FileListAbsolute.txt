@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\bin\Debug\Extension Methods - Genişletme Metotları.exe.config
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\bin\Debug\Extension Methods - Genişletme Metotları.exe
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\bin\Debug\Extension Methods - Genişletme Metotları.pdb
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\obj\Debug\Extension Methods - Genişletme Metotları.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\obj\Debug\Extension Methods - Genişletme Metotları.exe
+C:\Users\microman\Documents\GitHub\Extension Methods - Genişletme Metotları\obj\Debug\Extension Methods - Genişletme Metotları.pdb

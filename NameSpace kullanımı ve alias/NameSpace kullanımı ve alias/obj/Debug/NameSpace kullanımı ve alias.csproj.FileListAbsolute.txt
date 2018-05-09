@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\bin\Debug\NameSpace kullanımı ve alias.exe.config
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\bin\Debug\NameSpace kullanımı ve alias.exe
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\bin\Debug\NameSpace kullanımı ve alias.pdb
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\obj\Debug\NameSpace kullanımı ve alias.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\obj\Debug\NameSpace kullanımı ve alias.exe
+C:\Users\microman\Source\Repos\NameSpace kullanımı ve alias\NameSpace kullanımı ve alias\obj\Debug\NameSpace kullanımı ve alias.pdb

@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Users\microman\Documents\GitHub\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Users\microman\Documents\GitHub\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Users\microman\Documents\GitHub\Abstract Class\obj\Debug\Abstract Class.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Users\microman\Documents\GitHub\Abstract Class\obj\Debug\Abstract Class.pdb

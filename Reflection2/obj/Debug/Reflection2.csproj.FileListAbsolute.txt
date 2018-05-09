@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\Reflection2\bin\Debug\Reflection2.exe.config
+C:\Users\microman\Documents\GitHub\Reflection2\bin\Debug\Reflection2.exe
+C:\Users\microman\Documents\GitHub\Reflection2\bin\Debug\Reflection2.pdb
+C:\Users\microman\Documents\GitHub\Reflection2\obj\Debug\Reflection2.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Reflection2\obj\Debug\Reflection2.exe
+C:\Users\microman\Documents\GitHub\Reflection2\obj\Debug\Reflection2.pdb

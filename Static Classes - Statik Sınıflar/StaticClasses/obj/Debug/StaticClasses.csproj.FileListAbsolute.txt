@@ -1,0 +1,6 @@
+C:\Users\microman\Documents\GitHub\StaticClasses\bin\Debug\StaticClasses.exe.config
+C:\Users\microman\Documents\GitHub\StaticClasses\obj\Debug\StaticClasses.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\StaticClasses\bin\Debug\StaticClasses.exe
+C:\Users\microman\Documents\GitHub\StaticClasses\bin\Debug\StaticClasses.pdb
+C:\Users\microman\Documents\GitHub\StaticClasses\obj\Debug\StaticClasses.exe
+C:\Users\microman\Documents\GitHub\StaticClasses\obj\Debug\StaticClasses.pdb

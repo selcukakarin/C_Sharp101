@@ -1,0 +1,15 @@
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\microman\Documents\GitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\microman\Desktop\c#\this örneği\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\microman\Desktop\c#\this örneği\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\microman\Desktop\c#\this örneği\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\microman\Desktop\c#\Sınıflar defaul constructor, destructor, encapsulation\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
