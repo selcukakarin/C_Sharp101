@@ -1,0 +1,6 @@
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\bin\Debug\Exception Handling (Hata Yönetimi).exe.config
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\bin\Debug\Exception Handling (Hata Yönetimi).exe
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\bin\Debug\Exception Handling (Hata Yönetimi).pdb
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\obj\Debug\Exception Handling (Hata Yönetimi).csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\obj\Debug\Exception Handling (Hata Yönetimi).exe
+C:\Users\microman\Source\Repos\C_Sharp_Examples\Exception Handling (Hata Yönetimi)\Exception Handling (Hata Yönetimi)\obj\Debug\Exception Handling (Hata Yönetimi).pdb

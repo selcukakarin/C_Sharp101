@@ -17,6 +17,7 @@ namespace var
             var buDaBirNesne2 = new List<string>();
             buDaBirNesne2.Add("selçuk");
 
+            Console.ReadKey();
         }
     }
 }
